@@ -56,7 +56,7 @@
     <image72x72>icon/72.png</image72x72>
   </icon>
   <customUpdateUI>false</customUpdateUI>
-  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <allowBrowserInvocation>true</allowBrowserInvocation>
  <android>
          <manifestAdditions><![CDATA[<manifest>
 <uses-permission android:name="android.permission.INTERNET"/>
