@@ -162,27 +162,19 @@
             <!-- _____________________________________________ FLASH APP V3 -->
 
             <div class="middle" id="box-game">
-                <div id="flashContent">
-                    <div class="info">
-                        You need to install or upgrade your Flash Player.<br/>
-                        You can download it <a href="http://get.adobe.com/flashplayer/" target="_blank">here</a>.
-                    </div>
-                </div>
+                <div id="flashcontent">
+                <a href="http://get.adobe.com/en/flashplayer/" target="_blank"><img class="image" src="need_flash9.png" width="600" height="400" alt="download flash player" border="no" /></a>
             </div>
         </div>
-        <!-- div wrap -->
         <script type="text/javascript" src="../js/swfobject.js"></script>
         <script type="text/javascript">
             var flashversion = "9.0.0";
-            var domain = location.protocol.indexOf("https") > -1 ? "https://www.incredibox.com/" : "http://www.incredibox.com/";
+            var domain = "https://www.incredibox.com/";
             var versionIE = 0;
 
             $(document).ready(function () {
                 if (swfobject.hasFlashPlayerVersion(flashversion)) {
                     var flashvars = {};
-                    flashvars.compo = "";
-                    flashvars.domain = domain;
-                    flashvars.rootFolder = "../assets/";
                     var params = {};
                     params.bgcolor = "#FFFFFF";
                     params.menu = "false";
@@ -193,7 +185,7 @@
                     params.allowfullscreen = "false";
                     params.allowscriptaccess = "always";
                     var attributes = {};
-                    swfobject.embedSWF("..assets/G-music.swf", "flashContent", "100%", "100%", flashversion, "", flashvars, params, attributes, embedFlashOk);
+                    swfobject.embedSWF("../assets/G-music.swf", "flashcontent", "100%", "100%", flashversion, "", flashvars, params, attributes, embedFlashOk);
                 } else {
                     $(".info").show();
                 }
