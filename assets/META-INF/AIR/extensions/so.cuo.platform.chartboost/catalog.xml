@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="so/cuo/platform/chartboost/IChartboost" mod="1386811746000" signatureChecksum="291625596" >
+        <def id="so.cuo.platform.chartboost:IChartboost" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="so/cuo/platform/chartboost/ChartboostBase" mod="1386811984000" signatureChecksum="985664219" >
+        <def id="so.cuo.platform.chartboost:ChartboostBase" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="so.cuo.platform.chartboost:ChartboostFunNames" type="e" /> 
+        <dep id="flash.system:Capabilities" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="so.cuo.platform.chartboost:ChartboostEvent" type="e" /> 
+        <dep id="so.cuo.platform.chartboost:ChartboostSize" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+        <dep id="so.cuo.platform.chartboost:IChartboost" type="i" /> 
+      </script>
+      <script name="so/cuo/platform/chartboost/Chartboost" mod="1386811870000" signatureChecksum="2145826179" >
+        <def id="so.cuo.platform.chartboost:Chartboost" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="so.cuo.platform.chartboost:ChartboostFunNames" type="e" /> 
+        <dep id="flash.system:Capabilities" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="so.cuo.platform.chartboost:ChartboostBase" type="i" /> 
+      </script>
+      <script name="_ce5eda2190ce1a77c9da9e2b417cd96d894699ae64634cb26a8e42b40cba51c6_flash_display_Sprite" mod="1386820497061" signatureChecksum="2068282303" >
+        <def id="_ce5eda2190ce1a77c9da9e2b417cd96d894699ae64634cb26a8e42b40cba51c6_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="so/cuo/platform/chartboost/ChartboostSize" mod="1386811062000" signatureChecksum="570910381" >
+        <def id="so.cuo.platform.chartboost:ChartboostSize" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="so/cuo/platform/chartboost/ChartboostPosition" mod="1386811048000" signatureChecksum="4127751709" >
+        <def id="so.cuo.platform.chartboost:ChartboostPosition" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="so/cuo/platform/chartboost/ChartboostEvent" mod="1386811914000" signatureChecksum="1087565241" >
+        <def id="so.cuo.platform.chartboost:ChartboostEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="so/cuo/platform/chartboost/ChartboostFunNames" mod="1386811072000" signatureChecksum="2680863226" >
+        <def id="so.cuo.platform.chartboost:ChartboostFunNames" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="e20dbf8e4e327e4841260cb18f4f8a9de45500a19a2cbf190c6cdf5ad64f1132"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

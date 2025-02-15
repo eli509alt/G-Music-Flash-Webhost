@@ -1,0 +1,110 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: XEvk2/ei+GC0gjtcgCslXSO8xcg=
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA1-Digest: EvoTtY/gjhFcagMxpbf2xtWgyyQ=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: VhdglwjDpSyIoxnoQQ7cjEoGF1Y=
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA1-Digest: dzi1N0pFyMOAaMKvPv6ABsC9JrQ=
+
+Name: res/raw/startga.html
+SHA1-Digest: vtbLpFCE/puG1tIThIFDVjSuAWM=
+
+Name: lib/armeabi-v7a/libstagefright_honeycomb.so
+SHA1-Digest: ZeXcgINw6xhhPkyYKZ7NQyz6esU=
+
+Name: assets/icon/48.png
+SHA1-Digest: I8QJeE7RwH/+vWU66W41D9nKXv8=
+
+Name: assets/icon/36.png
+SHA1-Digest: zDLPZNYryyDQcDGYgzxFHhoA0KQ=
+
+Name: resources.arsc
+SHA1-Digest: DWrbRNJOfUrmQ327kJkSbVxrGDI=
+
+Name: res/raw/rgba8888
+SHA1-Digest: Zl1hFYFfIU3ykjjlwvkAPiOpbjU=
+
+Name: res/raw/debuginfo
+SHA1-Digest: tDkq9Am9IICKEyUpUxv9SZC2Ido=
+
+Name: AndroidManifest.xml
+SHA1-Digest: nQjFR9CMLQ0YfXVIs1w69DzKMY0=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: FjDvALzIUXMQf9l7r+ApVbopWyI=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: bcSvS5aW4jd+W2NYFJ+uqz0549k=
+
+Name: lib/armeabi-v7a/libCore.so
+SHA1-Digest: YfvYoOj+kOb1C0TD8Iy/HXFz/3o=
+
+Name: assets/META-INF/AIR/extensions/so.cuo.platform.chartboost/librar
+ y.swf
+SHA1-Digest: 9EKERf1ECf3qwYWNE8TZOEkriBA=
+
+Name: assets/META-INF/AIR/extensions/so.cuo.platform.chartboost/META-I
+ NF/ANE/extension.xml
+SHA1-Digest: igYIhApCVxrJf4aDc64ko55CWbg=
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA1-Digest: +NgZVdn4VOVpbHlvL/Ps+wfqQGc=
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA1-Digest: LOZUMlSO2ZFFhavqx2+zEWqLpb0=
+
+Name: assets/META-INF/AIR/extensions/so.cuo.platform.chartboost/META-I
+ NF/ANE/Android-ARM/library.swf
+SHA1-Digest: KgdTythtQ5lEka3MlDbRHTNMl4c=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: UiKltHePqxukELlFilTKzLlm58E=
+
+Name: assets/G-music.swf
+SHA1-Digest: TCBn4gnWeuCw31M1N+6p4oNyjMo=
+
+Name: res/raw/adobelogo.gif
+SHA1-Digest: C230O0R3bbZIa6/Fr6jyvOCeYw0=
+
+Name: res/raw/icon.jpg
+SHA1-Digest: v/gTscGJUwTvt36BgaX6qc4zgsc=
+
+Name: assets/adobeair.vch
+SHA1-Digest: W5BkwBMjotOTQ1OalK+gcGzDgiA=
+
+Name: classes.dex
+SHA1-Digest: t2ZUYT+H737zkzZOVlKQkZYLbEY=
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA1-Digest: ivKE0pXSnLTzY00/y11WM+leyiM=
+
+Name: res/layout/main.xml
+SHA1-Digest: HPT394pgajC4gt3NVQFzVvN5URk=
+
+Name: lib/armeabi-v7a/libstagefright_froyo.so
+SHA1-Digest: FkBTDj9QFTsvDw88Uw1iiAX68j8=
+
+Name: res/layout/expandable_chooser_row.xml
+SHA1-Digest: dApNLs86drjUdk/MG29/3ZibQzg=
+
+Name: assets/icon/72.png
+SHA1-Digest: +sODg+X8pGg4ZSjIH5AKjeI1ZTA=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: AYeAlZLgIg2apaASwxgKglh876U=
+
+Name: assets/META-INF/AIR/extensions/so.cuo.platform.chartboost/catalo
+ g.xml
+SHA1-Digest: NpALBpXWBFmwNzLvMx5zlI4lxoc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: qBVNbDLHlZmiwQK6scpFpXTJX/Q=
+
+Name: res/drawable-xhdpi/ouya_icon.png
+SHA1-Digest: LybyvV2SGhPOEvEKqsHRqSFBwLo=
+
