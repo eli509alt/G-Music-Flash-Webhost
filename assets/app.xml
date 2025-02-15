@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+	Powered by Incredibox
+	Incredibox © So Far So Good
+	http://www.sofarsogood.fr
+	http://www.incredibox.com
+-->
+
+<root>
+
+	<appInfo>
+		<name>Love</name>
+		<version>4</version>
+		<annee>2014</annee>
+		<duree>7.98</duree>
+		<frame>384</frame>
+		<volencode>0.8</volencode>
+	</appInfo>
+
+	<musique>
+
+		<son picto="picto0" posPicto="46,85">
+			<swf>costume-v4/drumkick.swf</swf>
+			<mp3>sound-v4/drum/drumkick_a.mp3</mp3>
+			<mp3>sound-v4/drum/drumkick_b.mp3</mp3>
+		</son>
+		<son picto="picto1" posPicto="26,110">
+			<swf>costume-v4/drumsnare.swf</swf>
+			<mp3>sound-v4/drum/drumsnare_a.mp3</mp3>
+			<mp3>sound-v4/drum/drumsnare_b.mp3</mp3>
+		</son>
+		<son picto="picto2" posPicto="46,56">
+			<swf>costume-v4/drumtouti.swf</swf>
+			<mp3>sound-v4/drum/drumtouti_a.mp3</mp3>
+		</son>
+		<son picto="picto3" posPicto="46,70">
+			<swf>costume-v4/drumcharley.swf</swf>
+			<mp3>sound-v4/drum/drumcharley_a.mp3</mp3>
+		</son>
+		<son picto="picto4" posPicto="46,65">
+			<swf>costume-v4/drumchatom.swf</swf>
+			<mp3>sound-v4/drum/drumchatom_a.mp3</mp3>
+			<mp3>sound-v4/drum/drumchatom_b.mp3</mp3>
+		</son>
+
+
+		<son picto="picto5" posPicto="46,70">
+			<swf>costume-v4/effectbass.swf</swf>
+			<mp3>sound-v4/effect/effectbass_a.mp3</mp3>
+			<mp3>sound-v4/effect/effectbass_b.mp3</mp3>
+		</son>
+		<son picto="picto6" posPicto="46,70">
+			<swf>costume-v4/effectenigmatic.swf</swf>
+			<mp3>sound-v4/effect/effectenigmatic_a.mp3</mp3>
+		</son>
+		<son picto="picto7" posPicto="41,73">
+			<swf>costume-v4/effectcry.swf</swf>
+			<mp3>sound-v4/effect/effectcry_a.mp3</mp3>
+		</son>
+		<son picto="picto8" posPicto="65,60">
+			<swf>costume-v4/effectodoyouno.swf</swf>
+			<mp3>sound-v4/effect/effectodoyouno_a.mp3</mp3>
+		</son>
+		<son picto="picto9" posPicto="48,43">
+			<swf>costume-v4/effectoua.swf</swf>
+			<mp3>sound-v4/effect/effectoua_a.mp3</mp3>
+		</son>
+
+
+		<son picto="picto10" posPicto="46,70">
+			<swf>costume-v4/melotoun.swf</swf>
+			<mp3>sound-v4/melo/melotoun_a.mp3</mp3>
+			<mp3>sound-v4/melo/melotoun_b.mp3</mp3>
+		</son>
+		<son picto="picto11" posPicto="57,90">
+			<swf>costume-v4/meloflute.swf</swf>
+			<mp3>sound-v4/melo/meloflute_a.mp3</mp3>
+			<mp3>sound-v4/melo/meloflute_b.mp3</mp3>
+		</son>
+		<son picto="picto12" posPicto="41,85">
+			<swf>costume-v4/meloneou.swf</swf>
+			<mp3>sound-v4/melo/meloneou_a.mp3</mp3>
+			<mp3>sound-v4/melo/meloneou_b.mp3</mp3>
+		</son>
+		<son picto="picto13" posPicto="43,68">
+			<swf>costume-v4/melohu.swf</swf>
+			<mp3>sound-v4/melo/melohu_a.mp3</mp3>
+			<mp3>sound-v4/melo/melohu_b.mp3</mp3>
+		</son>
+		<son picto="picto14" posPicto="46,70">
+			<swf>costume-v4/meloah.swf</swf>
+			<mp3>sound-v4/melo/meloah_a.mp3</mp3>
+		</son>
+
+
+		<son picto="picto15" posPicto="50,56">
+			<swf>costume-v4/chipsfeel.swf</swf>
+			<mp3>sound-v4/chips/chipsfeel_a.mp3</mp3>
+			<mp3>sound-v4/chips/chipsfeel_b.mp3</mp3>
+		</son>
+		<son picto="picto16" posPicto="58,63">
+			<swf>costume-v4/chipschillin.swf</swf>
+			<mp3>sound-v4/chips/chipschillin_a.mp3</mp3>
+		</son>
+		<son picto="picto17" posPicto="58,58">
+			<swf>costume-v4/chipsyeah.swf</swf>
+			<mp3>sound-v4/chips/chipsyeah_a.mp3</mp3>
+		</son>
+		<son picto="picto18" posPicto="50,57">
+			<swf>costume-v4/chipsfilback.swf</swf>
+			<mp3>sound-v4/chips/chipsfilback_a.mp3</mp3>
+			<mp3>sound-v4/chips/chipsfilback_b.mp3</mp3>
+		</son>
+		<son picto="picto19" posPicto="45,80">
+			<swf>costume-v4/chipsteylo.swf</swf>
+			<mp3>sound-v4/chips/chipsteylo_a.mp3</mp3>
+		</son>
+
+
+		<sonBonus picto="bonus0">
+			<mp3>sound-v4/bonus/aspire.mp3</mp3>
+		</sonBonus>
+		<sonBonus picto="bonus1">
+			<mp3>sound-v4/bonus/1-love.mp3</mp3>
+		</sonBonus>
+		<sonBonus picto="bonus2">
+			<mp3>sound-v4/bonus/2-follow.mp3</mp3>
+		</sonBonus>
+		<sonBonus picto="bonus3">
+			<mp3>sound-v4/bonus/3-eagle.mp3</mp3>
+		</sonBonus>
+
+	</musique>
+
+	<pathBonus loop="1">
+
+		<swf code="0,1,5,10,16" visible="1" name="Love">bonus-v4/1-love.swf</swf>
+		<swf code="0,5,7,11,17" visible="1" name="Follow">bonus-v4/2-follow.swf</swf>
+		<swf code="0,2,5,12,15" visible="1" name="Eagle">bonus-v4/3-eagle.swf</swf>
+
+	</pathBonus>
+
+	<pathPicto>
+		<swf>picto-v4.swf</swf>
+	</pathPicto>
+
+	<pathIntro>
+		<swf>intro-v4.swf</swf>
+	</pathIntro>
+
+	<pathLogo>
+		<swf>logo-v4.swf</swf>
+	</pathLogo>
+
+</root>
