@@ -182,8 +182,7 @@
                     var flashvars = {};
                     flashvars.compo = "";
                     flashvars.domain = domain;
-                    flashvars.rootFolder = "../app/";
-                    flashvars.appFolder = "v4/";
+                    flashvars.rootFolder = "../assets/";
                     var params = {};
                     params.bgcolor = "#FFFFFF";
                     params.menu = "false";
@@ -194,7 +193,7 @@
                     params.allowfullscreen = "false";
                     params.allowscriptaccess = "always";
                     var attributes = {};
-                    swfobject.embedSWF("../app/index.swf", "flashContent", "100%", "100%", flashversion, "", flashvars, params, attributes, embedFlashOk);
+                    swfobject.embedSWF("../assets/G-music.swf", "flashContent", "100%", "100%", flashversion, "", flashvars, params, attributes, embedFlashOk);
                 } else {
                     $(".info").show();
                 }
